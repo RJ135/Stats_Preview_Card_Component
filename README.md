@@ -1,9 +1,11 @@
 # Frontend Mentor - Stats preview card component
 
 **DESKTOP**
+
 ![stats-preview-card-component-desktop](https://user-images.githubusercontent.com/48568104/118152618-33b8e400-b415-11eb-87f6-84927bf250a4.png)
 
 **MOBILE**
+
 ![stats-preview-card-component-mobile](https://user-images.githubusercontent.com/48568104/118152681-4501f080-b415-11eb-9f63-31e869e56e86.png)
 
 
